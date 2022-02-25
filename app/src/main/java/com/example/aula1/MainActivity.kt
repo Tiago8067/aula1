@@ -14,6 +14,6 @@ class MainActivity : AppCompatActivity() {
 
         //login
 
-        //registar
+        //registar pagina
     }
 }
